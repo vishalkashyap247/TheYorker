@@ -7,7 +7,8 @@ A dark-mode cricket companion app for iOS built with SwiftUI. Live scores, match
 ## Screenshots
 
 <p align="center">
-  <img src="Screenshots/01_home.png" width="200" alt="Home screen">
+
+  <img src="https://github.com/user-attachments/assets/6f1b0faf-6571-4ebe-968b-f49d74aabb5a" width="200" alt="Home screen">
   <img src="Screenshots/02_live_now.png" width="200" alt="Live matches">
   <img src="Screenshots/03_match_detail_scorecard.png" width="200" alt="Scorecard">
   <img src="Screenshots/04_match_detail_info.png" width="200" alt="Match info">
