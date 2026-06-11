@@ -18,11 +18,14 @@ A dark-mode cricket companion app for iOS built with SwiftUI. Live scores, match
   <img src="https://github.com/user-attachments/assets/5c5708b1-31e5-41d7-b8ad-65331600318d" width="200" alt="Match info">
 </p>
 <p align="center">
-  <img src="Screenshots/05_schedule.png" width="200" alt="Schedule">
-  <img src="Screenshots/06_settings.png" width="200" alt="Settings">
-  <img src="Screenshots/07_dynamic_island_compact.png" width="200" alt="Dynamic Island">
-  <img src="Screenshots/08_lock_screen_live_activity.png" width="200" alt="Lock screen Live Activity">
-  <img src="Screenshots/09_dynamic_island_expanded.png" width="200" alt="Dynamic Island expanded">
+
+  
+  <img src="https://github.com/user-attachments/assets/e96d385a-5ec9-47bc-a725-38775d8a5fd9" width="200" alt="Schedule">
+  
+
+  <img src="https://github.com/user-attachments/assets/5df1171b-6379-4372-85c9-11b3b5656737" width="200" alt="Settings">
+
+  <img src="https://github.com/user-attachments/assets/50e8782b-f1fc-4e78-8d3a-fb65c2e527fe" width="200" alt="Dynamic Island">
 </p>
 
 ---
